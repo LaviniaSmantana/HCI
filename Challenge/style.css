@@ -1,0 +1,305 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  border: none;
+}
+ul {
+  margin: 0;
+  list-style-type: none;
+}
+fieldset {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: #3ca2a2;
+}
+a:hover {
+  color: #215a6d;
+}
+legend {
+  display: none;
+}
+.hidden {
+  display: none;
+}
+.clear {
+  clear: both;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  background: #fff;
+}
+
+header {
+  padding: 5px;
+  background-color: #2d2d29;
+  overflow: hidden;
+}
+header h1 {
+  margin: 5px 10px 0px 10px;
+  padding: 0;
+  color: #dfece6;
+  font-size: 1.8em;
+  float: left;
+}
+header #logo {
+  float: right;
+  margin: 0;
+}
+
+article.persona {
+  background-color: #fff;
+  border: solid 1px #493736;
+  float: left;
+  margin: 5px 10px;
+  width: 48%;
+  margin-bottom: 6%;  /* adauga spatiu dupa Persona Template */
+}
+.personaInfo figure {
+  margin: 0;
+  padding: 0;
+}
+.personaInfo {
+  border-bottom: solid 1px #493736;
+  padding: 5px;
+  overflow: hidden;
+}
+.personaInfo img {
+  float: left;
+}
+.personaInfo .personaBackground {
+  float: right;
+  width: 73%;
+}
+.personaInfo h3,
+.personaInfo .personaBackground h4,
+.personaInfo .personaBackground h5,
+.personaDetails h4,
+.personaDetails h5,
+.personaScenarios h5,
+.otherDetails h5 {
+  margin: 0 0 5px;
+  padding: 5px;
+  background-color: #2d2d29;
+  color: #dfece6;
+}
+.personaInfo .personaBackground ul,
+.personaDetails ul,
+.personaScenarios ul,
+.otherDetails ul {
+  margin: 0;
+  padding: 0 5px;
+}
+.personaInfo p,
+.personaDetails p,
+.personaScenarios p,
+.otherDetails p {
+  margin: 2px;
+  padding: 0;
+}
+
+.personaDetails ul li {
+  list-style-type: square;
+  margin: 0 0 0 15px;
+}
+.personaDetails {
+  border-bottom: solid 1px #493736;
+  overflow: hidden;
+  padding: 5px;
+}
+.personaDetails .detailsLeft h5 {
+  padding: 5px 5px 5px 10px;
+}
+.personaDetails .detailsLeft {
+  width: 38%;
+  float: left;
+  margin-right: 5px;
+}
+
+.personaDetails .detailsRight {
+  width: 61%;
+  float: right;
+}
+
+.personaScenarios,
+.otherDetails {
+  clear: both;
+  padding: 5px;
+  overflow: hidden;
+}
+.personaScenarios {
+  border-bottom: solid 1px #493736;
+}
+
+/* De aici in jos am adaugat eu - lavinia */
+
+.bulina2{
+  margin-top: 10%;
+}
+
+.bulina2 h2{
+  font-size: 30px;
+  margin-bottom: 40px;
+  margin-left: -800px;
+}
+
+.bulina2 p{
+  font-size: 17px;
+  margin-left: 45px;
+  margin-right: 10px;
+}
+
+.bulina2 p li{
+  margin-left: 30px;
+}
+
+.empiric-laws{
+  margin-top: 3%;
+}
+.empiric-laws h2{
+  font-size: 30px;
+  margin-left: 80px;
+  margin-bottom: 40px;
+}
+
+.empiric-laws h3{
+  font-size: 20px;
+  margin-left: 45px;
+  margin-bottom: 1%;
+}
+
+.empiric-laws p{
+  margin-bottom: 2%;
+  font-size: 17px;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+
+.bulina3{
+  margin-top: 4%;
+}
+
+.bulina3 h2{
+  font-size: 30px;
+  margin-left: 80px;
+  margin-bottom: 40px;
+}
+
+.bulina3 h3{
+  font-size: 20px;
+  margin-left: 45px;
+}
+
+.bulina3 p{
+  font-size: 17px;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+
+.bulina3 li{
+  font-size: 17px;
+  margin-left: 30px;
+}
+
+.bulina3 .tab-bar img{
+  margin-left: 10%;
+  margin-bottom: 2%;
+}
+
+.bulina3 h4{
+  margin-top: 2%;
+  font-size: 16px;
+  margin-left: 15px;
+  margin-bottom: 2%;
+}
+
+.bulina4{
+  margin-top: 4%;
+}
+
+.bulina4 h2{
+  font-size: 30px;
+  margin-left: 80px;
+  margin-bottom: 40px;
+}
+
+.bulina4 p{
+  font-size: 17px;
+  margin-left: 15px;
+  margin-right: 10px;
+  margin-bottom: 3%;
+}
+
+
+.bulina4 li{
+  font-size: 17px;
+  margin-left: 30px;
+}
+
+.bulina4 .poze{
+  flex: 20%;
+  width: 40px;
+}
+
+.poze img{
+  width: 100%;
+}
+
+.bulina4 .row-poze{
+  display: flex;
+  justify-content:left;
+}
+
+.affordances{
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.affordances h2{
+  font-size: 30px;
+  margin-left: 80px;
+  margin-bottom: 40px;
+}
+
+.affordances p{
+  font-size: 17px;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+
+.flow h2{
+  font-size: 30px;
+  margin-left: 80px;
+  margin-bottom: 40px;
+}
+
+.flow p{
+  font-size: 17px;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+
+.flow img{
+  width: 900px;
+  height: 700px;
+}
+
+.team h3{
+  font-size: 30px;
+  margin-left: 80px;
+  margin-bottom: 40px;
+}
+
+.team p{
+  font-size: 17px;
+  margin-left: 50px;
+}
