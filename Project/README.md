@@ -1,1 +1,1 @@
-GERC (Gestural Remote Control)
+GeRC (Gestural Remote Control)
