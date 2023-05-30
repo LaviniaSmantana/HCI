@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fff;
+  }
+  
+header h1{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+header h2{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.introduction{
+    margin-top: 100px;
+}
+
+.introduction h1{
+    margin-left: 50px;
+    font-size: 40px;
+}
+
+.introduction p{
+    margin-top:30px;
+    font-size: 25px;
+    margin-left:40px;
+    margin-right:10px;
+    margin-bottom:20px;
+}
+
+.mobile-app{
+    margin-top:60px;
+}
+
+.mobile-app h1{
+    margin-left: 50px;
+    font-size:40px;
+}
+
+.main-page{
+    margin-top: 50px;
+}
+
+.mobile-app h2{
+    margin-left:70px;
+    margin-bottom: 20px;
+}
+
+.mobile-app p{
+    font-size: 25px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+.mobile-app img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 70px;
+    margin-top: 30px;
+}
+
+.vacuum-page{
+    margin-top: 100px;
+}
+
+.washing-page{
+    margin-top: 100px;
+}
+
+.oven-page{
+    margin-top: 100px;
+}
+
+.watch-app {
+    margin-top: 120px;
+}
+
+.watch-app h1{
+    margin-left: 50px;
+    font-size:40px;
+}
+
+.watch-poze {
+    margin-top: 30px;
+    margin-left: 100px;
+}    
+.watch-poze img{
+    border-radius: 50px;
+}
+
+.desktop-app{
+    margin-top: 120px;
+}
+
+.desktop-app h1{
+    margin-left: 50px;
+    font-size: 40px;
+}
+
+.desktop-poze img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+
+.user-flow{
+    margin-top: 120px;
+}
+
+.user-flow h1{
+    margin-left: 50px;
+    font-size: 40px;
+}
+
+.user-flow p{
+    margin-top: 30px;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+.user-flow img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+
+.storyboards{
+    margin-top: 120px;
+}
+
+.storyboards h1{
+    margin-left: 50px;
+    font-size: 40px;
+}
+
+.storyboards img{
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.emotions{
+    margin-top: 120px;
+}
+
+.emotions h1{
+    margin-left: 50px;
+    font-size: 40px;
+}
+
+.emotions p{
+    margin-top: 30px;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+.emotions h3{
+    margin-left: 50px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+.emotions li{
+    margin-left: 20px;
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+
+.video{
+    margin-top: 80px;
+}
+
+.video h1{
+    margin-left: 50px;
+    font-size: 40px;
+}
+
+.video p{
+    margin-top: 30px;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
